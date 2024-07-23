@@ -119,7 +119,7 @@ For a more streamlined experience, you can use the provided save file:
 4. In this world, you'll find command blocks set up to initialize the environment and control the animation.
 
 5. To use your own converted 3CPF animation:
-   - Replace the contents of the `datapacks` folder in this world with the output from the converter.
+   - Replace the `data` and `datapacks` folder in your world save with the output from the converter.
    - Run `/reload` in-game to load your new animation data.
 
 6. You can now use the command blocks to control your custom animation.
