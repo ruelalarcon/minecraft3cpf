@@ -1,10 +1,10 @@
-# minecraft3cpf
+# Minecraft3cpf
 
 > A Python-based CLI tool for converting [3cpf](https://github.com/ruelalarcon/3cpf) files into Minecraft datapacks for block animations.
 
 ## Installation
 
-To use minecraft3cpf, you need to have Python 3 (Tested on 3.8+) installed on your system. Clone this repository and install the required dependencies:
+To use Minecraft3cpf, you need to have Python 3 (Tested on 3.8+) installed on your system. Clone this repository and install the required dependencies:
 
 ```bash
 git clone https://github.com/ruelalarcon/minecraft3cpf.git
@@ -14,7 +14,7 @@ pip install -r requirements.txt
 
 ## Usage
 
-The basic usage of minecraft3cpf is as follows:
+The basic usage of Minecraft3cpf is as follows:
 
 ```bash
 python cli.py <input> [output]
