@@ -110,7 +110,7 @@ You can also use the provided save file:
 
 For a more streamlined experience, you can use the provided save file:
 
-1. Download the `3cpfAnimator.zip` file from the repository.
+1. Download the `3cpfAnimator.zip` file from the [releases page](https://github.com/ruelalarcon/minecraft3cpf/releases).
 
 2. Extract the contents to your Minecraft saves folder.
 
