@@ -3,4 +3,5 @@
 venv/
 
 # PyCache
+__pycache__/
 *.pyc
